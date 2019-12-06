@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Stock SYSTEM "ppe.dtd">
+<Stock>
+<annee>2019</annee>
+<code code = "1">
+<nom>Augmentin</nom>
+<quantite>10</quantite>
+</code>
+
+<code code = "2">
+<nom>augmentin</nom>
+<quantite>20</quantite>
+
+
+</code>
+</Stock>

@@ -1,0 +1,8 @@
+<!-- début de la DTD -->
+<!-- DTD pour le stock initial du PPE -->
+<!ELEMENT Stock (annee , code+) >
+<!ELEMENT annee (#PCDATA) >
+<!ELEMENT code (nom, quantite)>
+<!ATTLIST code  code CDATA #REQUIRED>
+<!ELEMENT nom (#PCDATA) >
+<!ELEMENT quantite (#PCDATA) >
